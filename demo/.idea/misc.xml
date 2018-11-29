@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../eurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/../provider/pom.xml" />
+        <option value="$PROJECT_DIR$/../consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../hystrixDashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/../turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/../feignConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../apiGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../configServer/pom.xml" />
+        <option value="$PROJECT_DIR$/../configClient/pom.xml" />
+        <option value="$PROJECT_DIR$/../common/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>
