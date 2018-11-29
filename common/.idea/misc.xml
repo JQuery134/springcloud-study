@@ -5,10 +5,13 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../eurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/../rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/../configServer/pom.xml" />
+        <option value="$PROJECT_DIR$/../configClient/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/classes" />
   </component>
 </project>

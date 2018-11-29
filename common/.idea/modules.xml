@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/common.iml" filepath="$PROJECT_DIR$/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../configClient/configClient.iml" filepath="$PROJECT_DIR$/../configClient/configClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../configServer/configServer.iml" filepath="$PROJECT_DIR$/../configServer/configServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/../eurekaServer/eurekaServer.iml" filepath="$PROJECT_DIR$/../eurekaServer/eurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rabbitmq/rabbitmq.iml" filepath="$PROJECT_DIR$/../rabbitmq/rabbitmq.iml" />
     </modules>
   </component>
 </project>

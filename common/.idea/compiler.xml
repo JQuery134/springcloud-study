@@ -6,12 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="configClient" />
+        <module name="configServer" />
         <module name="eurekaServer" />
+        <module name="rabbitmq" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="common" target="1.8" />
+      <module name="configClient" target="1.8" />
+      <module name="configServer" target="1.8" />
       <module name="eurekaServer" target="1.8" />
+      <module name="rabbitmq" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
